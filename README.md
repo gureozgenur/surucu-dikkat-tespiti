@@ -1,0 +1,1 @@
+# surucu-dikkat-tespiti
