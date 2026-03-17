@@ -1,1 +1,2 @@
 # surucu-dikkat-tespiti
+Bu projede kamera görüntüsünden sürücünün göz durumu analiz edilerek dikkat seviyesi belirlenmesi amaçlanmaktadır. Göz bölgesi, görüntü işleme yöntemleriyle tespit edilecek ve daha sonra CNN tabanlı bir model ile açık/kapalı olarak sınıflandırılacaktır. Model eğitimi için MRL Eye Dataset kullanılacaktır. Bu veri seti 80 binden fazla göz görüntüsü içerdiği için derin öğrenme uygulamaları açısından uygundur. Eğitim tamamlandıktan sonra model gerçek zamanlı kamera akışına entegre edilerek sürücünün uyuklama durumu tespit edilmeye çalışılacaktır.
